@@ -5,8 +5,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josenadin01&exclude_repo=nlw-06-payflow&layout=compact&langs_count=10&theme=dracula"/>
 </div>
   
+  Estou atualmente trabalhando e/ou estudando as seguintes tecnologias:
 <div style="display: inline_block"><br>
-  <p>Estou atualmente trabalhando e/ou estudando as seguintes tecnologias:</p>
   <img align="center" alt="José-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="José-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="José-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
