@@ -6,7 +6,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-  Estou atualmente trabalhando e/ou estudando as seguintes tecnologias:
+  <p>Estou atualmente trabalhando e/ou estudando as seguintes tecnologias:</p>
   <img align="center" alt="José-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="José-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="José-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
