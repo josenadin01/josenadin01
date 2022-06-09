@@ -1,5 +1,5 @@
 <h2> Olá, meu nome é José Nadin! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ejE0QtvTz2P2YfgqyZ/giphy.gif" width="220">
+<img align='right' src="https://media.giphy.com/media/ejE0QtvTz2P2YfgqyZ/giphy.gif" width="215">
 <p><em>Engenharia de software na <a href="https://estacio.br/">Estácio</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Desenvolvedor Web no <a href="https://spincare.com.br/">Spincare</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -13,12 +13,12 @@ const jose = {
   pronouns: "ele" | "dele",
   code: [Javascript, Typescript, HTML, CSS, Java, Go, Postgresql],
   tools: [React, Angular, Node],
-  work: "Atualmente estou trabalhando com Java, Angular, Postgresql e AWS. Mais detalhes no LinkedIn! :)",
+  work: "Atualmente estou trabalhando com Java, Angular, Postgresql e AWS. Mais detalhes no LinkedIn :)",
   study: "Estou estudando e fazendo side-projects em React, Node e Go"
 }
 ```
 
-<div align="center">
+<div>
   <a href="https://github.com/josenadin01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josenadin01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josenadin01&exclude_repo=nlw-06-payflow&layout=compact&langs_count=10&theme=dracula"/>
