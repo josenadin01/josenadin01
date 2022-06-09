@@ -6,6 +6,18 @@
 [![Linkedin: josenadin](https://img.shields.io/badge/-josenadin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josenadin/)](https://www.linkedin.com/in/josenadin/)
 [![GitHub josenadin01](https://img.shields.io/github/followers/josenadin01?label=follow&style=social)](https://github.com/josenadin01)
 
+𝗨𝗺 𝗽𝗼𝘂𝗰𝗼 𝗺𝗮𝗶𝘀 𝘀𝗼𝗯𝗿𝗲 𝗺𝗶𝗺...
+
+```javascript
+const jose = {
+  pronouns: "ele" | "dele",
+  code: [Javascript, Typescript, HTML, CSS, Java, Go, Postgresql],
+  tools: [React, Angular, Node],
+  work: "Atualmente estou trabalhando com Java, Angular, Postgresql e AWS. Mais detalhes no LinkedIn! :)",
+  study: "Estou estudando e fazendo side-projects em React, Node e Go"
+}
+```
+
 ## Olá, eu sou o José, Desenvolvedor Web!
 <div align="center">
   <a href="https://github.com/josenadin01">
