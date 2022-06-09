@@ -1,5 +1,5 @@
 <h2> Olá, meu nome é José Nadin! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ejE0QtvTz2P2YfgqyZ/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/ejE0QtvTz2P2YfgqyZ/giphy.gif" width="220">
 <p><em>Engenharia de software na <a href="https://estacio.br/">Estácio</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Desenvolvedor Web no <a href="https://spincare.com.br/">Spincare</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -18,12 +18,14 @@ const jose = {
 }
 ```
 
-## Olá, eu sou o José, Desenvolvedor Web!
 <div align="center">
   <a href="https://github.com/josenadin01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josenadin01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josenadin01&exclude_repo=nlw-06-payflow&layout=compact&langs_count=10&theme=dracula"/>
 </div>
+
+## Olá, eu sou o José, Desenvolvedor Web!
+
   
 <div style="display: inline_block"><br>
   <h3>Estou atualmente trabalhando e/ou estudando as seguintes tecnologias:</h3>
