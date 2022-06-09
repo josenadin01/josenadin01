@@ -17,7 +17,7 @@ const jose = {
   pronouns: "ele" | "dele",
   code: ["Javascript", "Typescript", "HTML", "CSS", "Golang", "Java", "Postgresql"],
   tools: ["React", "Angular", "Node"],
-  work: "Atualmente trabalhando com Java, Angular, Postgresql e AWS. Mais detalhes no LinkedIn :)",
+  work: "Atualmente trabalhando com Java, Angular, Postgresql e AWS. Mais detalhes no LinkedIn.",
   study: "Estou estudando e fazendo side-projects em React, Node e Go"
 }
 ```
