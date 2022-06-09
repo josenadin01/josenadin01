@@ -7,7 +7,9 @@
   [![Linkedin: josenadin](https://img.shields.io/badge/-josenadin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josenadin/)](https://www.linkedin.com/in/josenadin/)
   [![GitHub josenadin01](https://img.shields.io/github/followers/josenadin01?label=follow&style=social)](https://github.com/josenadin01)
   [![Email josenadin01](https://img.shields.io/badge/-josenadin01-orange?style=flat-square&-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josenadin01@gmail.com)
+  
 </div>
+
 
 𝗨𝗺 𝗽𝗼𝘂𝗰𝗼 𝗺𝗮𝗶𝘀 𝘀𝗼𝗯𝗿𝗲 𝗺𝗶𝗺...
 
