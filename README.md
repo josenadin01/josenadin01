@@ -5,9 +5,8 @@
 
 [![Linkedin: josenadin](https://img.shields.io/badge/-josenadin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josenadin/)](https://www.linkedin.com/in/josenadin/)
 [![GitHub josenadin01](https://img.shields.io/github/followers/josenadin01?label=follow&style=social)](https://github.com/josenadin01)
-[![Email josenadin01](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josenadin01@gmail.com)
- <a href = "mailto:josenadin01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
+[![Email josenadin01](https://img.shields.io/badge/-josenadin01-orange?style=flat-square&-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josenadin01@gmail.com)
+
 𝗨𝗺 𝗽𝗼𝘂𝗰𝗼 𝗺𝗮𝗶𝘀 𝘀𝗼𝗯𝗿𝗲 𝗺𝗶𝗺...
 
 ```javascript
@@ -24,11 +23,4 @@ const jose = {
   <a href="https://github.com/josenadin01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josenadin01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josenadin01&exclude_repo=nlw-06-payflow&layout=compact&langs_count=10&theme=dracula"/>
-</div>
-
- 
-<div> 
- 
-  <a href="https://www.linkedin.com/in/josenadin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
 </div>
