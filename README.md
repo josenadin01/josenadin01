@@ -5,7 +5,9 @@
 
 [![Linkedin: josenadin](https://img.shields.io/badge/-josenadin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josenadin/)](https://www.linkedin.com/in/josenadin/)
 [![GitHub josenadin01](https://img.shields.io/github/followers/josenadin01?label=follow&style=social)](https://github.com/josenadin01)
-
+[![Email josenadin01](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josenadin01@gmail.com)
+ <a href = "mailto:josenadin01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
 𝗨𝗺 𝗽𝗼𝘂𝗰𝗼 𝗺𝗮𝗶𝘀 𝘀𝗼𝗯𝗿𝗲 𝗺𝗶𝗺...
 
 ```javascript
@@ -24,22 +26,9 @@ const jose = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josenadin01&exclude_repo=nlw-06-payflow&layout=compact&langs_count=10&theme=dracula"/>
 </div>
 
-## Olá, eu sou o José, Desenvolvedor Web!
-
-  
-<div style="display: inline_block"><br>
-  <h3>Estou atualmente trabalhando e/ou estudando as seguintes tecnologias:</h3>
-  <img align="center" alt="José-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="José-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="José-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="José-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="José-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-</div>
-  
-  ##
  
 <div> 
-  <a href = "mailto:josenadin01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
   <a href="https://www.linkedin.com/in/josenadin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
