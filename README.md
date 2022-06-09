@@ -1,5 +1,5 @@
 <h2> Olá, meu nome é José Nadin! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ejE0QtvTz2P2YfgqyZ/giphy.gif" width="185">
+<img align='right' src="https://media.giphy.com/media/ejE0QtvTz2P2YfgqyZ/giphy.gif" width="182">
 <p><em>Engenharia de software na <a href="https://estacio.br/">Estácio</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Desenvolvedor Web no <a href="https://spincare.com.br/">Spincare</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
