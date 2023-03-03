@@ -25,5 +25,5 @@ const jose = {
 <div>
   <a href="https://github.com/josenadin01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josenadin01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josenadin01&exclude_repo=nlw-06-payflow&layout=compact&langs_count=10&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josenadin01&exclude_repo=nlw-06-payflow,typeform-clone,weather-app,Podcastr,nlw-copa&layout=compact&langs_count=10&theme=dracula"/>
 </div>
