@@ -15,10 +15,10 @@
 ```javascript
 const jose = {
   pronouns: "ele" | "dele",
-  code: ["Javascript", "Java(Spring)", "Postgresql"],
-  tools: ["React", "Angular", "Tailwind", "styled-components"],
-  work: "Atualmente trabalhando com Java(Spring), Angular, PostgreSQL e AWS.",
-  study: "Estou estudando e fazendo side-projects em Java(Spring), Angular e React"
+  code: ["Java", "Go", "Javascript", "PostgreSQL"],
+  tools: ["Spring", "React", "Angular", "Tailwind"],
+  work: "Atualmente trabalhando com Java (Spring), Angular, PostgreSQL e AWS.",
+  study: "Estou estudando e fazendo side-projects em Java (Spring), Go e React"
 }
 ```
 
