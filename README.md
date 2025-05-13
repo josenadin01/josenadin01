@@ -7,7 +7,6 @@
   [![Linkedin: josenadin](https://img.shields.io/badge/-josenadin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josenadin/)](https://www.linkedin.com/in/josenadin/)
   [![GitHub josenadin01](https://img.shields.io/github/followers/josenadin01?label=follow&style=social)](https://github.com/josenadin01)
   [![Email josenadin01](https://img.shields.io/badge/-josenadin01-orange?style=flat-square&-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josenadin01@gmail.com)
-  
 </div>
 
 𝗨𝗺 𝗽𝗼𝘂𝗰𝗼 𝗺𝗮𝗶𝘀 𝘀𝗼𝗯𝗿𝗲 𝗺𝗶𝗺...
@@ -24,6 +23,5 @@ const jose = {
 
 <div>
   <a href="https://github.com/josenadin01">
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=josenadin01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>-->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josenadin01&exclude_repo=nlw-06-payflow,typeform-clone,weather-app,Podcastr,nlw-copa&layout=compact&langs_count=10&theme=dracula&hide_progress=true"/>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josenadin01&show_icons=true&theme=dracula&locale=en&layout=compact" alt="josenadin01" /></p>
 </div>
